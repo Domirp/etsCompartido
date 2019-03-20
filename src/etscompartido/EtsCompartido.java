@@ -1,11 +1,6 @@
 
 package etscompartido;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Random;
 import java.util.Scanner;
 
 /**
@@ -17,7 +12,7 @@ public class EtsCompartido {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args){
         int a = 0;
         int b = 0;
         int c = 0;
@@ -35,5 +30,6 @@ public class EtsCompartido {
         System.out.println("Estos son los numeros: ");
         System.out.println("a = " + a);
         System.out.println("b = " + b);
+        //Es te es el nuevo cambio que vamos a realizar
     }    
 }
