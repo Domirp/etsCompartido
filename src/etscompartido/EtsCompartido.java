@@ -13,7 +13,7 @@ public class EtsCompartido {
      * @param args the command line arguments
      */
     public static void main(String[] args){
-        int AñadimosUnaVariable;
+        int AnadimosUnaVariable;
         int a = 0;
         int b = 0;
         int c = 0;
